@@ -20,3 +20,18 @@ This project demonstrates API testing using Postman.
 ## 📁 Collection File
 Download and import into Postman:
 `api-testing-project.json`
+
+## ▶️ How to Run
+1. Import collection into Postman
+2. Run using Collection Runner
+3. Verify all tests pass
+
+## 📸 Screenshots
+
+### Collection Structure
+![Collection](<img width="467" height="297" alt="image" src="https://github.com/user-attachments/assets/5c0c2f69-b7d9-419f-8dc8-d7de28143c5f" />
+)
+
+### Test Results
+![Test Results](<img width="1427" height="819" alt="image" src="https://github.com/user-attachments/assets/d946a3b5-e2f8-4e7a-b287-ef2b9e5f89a9" />
+)
